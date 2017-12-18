@@ -6,6 +6,7 @@ def prime?(number)
     return true
   end
   while (number % p == 0) && (p < number)
+    prime_array.push(p)
     p += 1
   end
   
