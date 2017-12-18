@@ -5,5 +5,5 @@ def prime?(number)
   if number < 2
     return true
   end
-  while (number % p == 0 )
+  while (number % p == 0) 
 end
