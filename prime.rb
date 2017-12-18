@@ -1,1 +1,4 @@
-# Add  code here!
+require 'pry'
+def prime?(number)
+  #binding.pry
+end
