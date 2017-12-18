@@ -9,5 +9,5 @@ def prime?(number)
     prime_array.push(p)
     p += 1
   end
-  return prime_array
+  return true
 end
