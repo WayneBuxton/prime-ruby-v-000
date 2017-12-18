@@ -7,4 +7,5 @@ def prime?(number)
   end
   while (number % p == 0) && (p < number)
     p += 1
+  end
 end
