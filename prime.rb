@@ -1,5 +1,5 @@
 require 'pry'
 def prime?(number)
   binding.pry
-  Prime.instance.prime?(number)
+  Prime.prime?(number)
 end
