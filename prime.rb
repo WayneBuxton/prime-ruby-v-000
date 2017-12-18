@@ -1,4 +1,4 @@
 require 'pry'
 def prime?(number)
-  prime?(number)
+  (number)
 end
