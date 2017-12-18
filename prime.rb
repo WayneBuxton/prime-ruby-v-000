@@ -4,6 +4,7 @@ def prime?(number)
   # if !number.positive?
   #   false
   # else
-  #   
+  #
   # end
+  Prime.prime?(number)
 end
